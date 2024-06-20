@@ -1,0 +1,2 @@
+# chevrotain
+Light weight dictionary
