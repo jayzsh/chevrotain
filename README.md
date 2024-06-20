@@ -1,2 +1,1 @@
-# chevrotain
-Light weight dictionary
+# My First GTK+ 3 Application
